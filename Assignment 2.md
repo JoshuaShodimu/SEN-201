@@ -1,4 +1,4 @@
-##Task Management API (TaskMaster). 
+Task Management API (TaskMaster). 
 
 This project follows a structured process from conceptualization to deployment.
 
