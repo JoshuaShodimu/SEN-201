@@ -1,4 +1,6 @@
-Task Management API (TaskMaster). This project follows a structured process from conceptualization to deployment.
+##Task Management API (TaskMaster). 
+
+This project follows a structured process from conceptualization to deployment.
 
 1. Requirement Analysis
 The goal is to build a RESTful API that allows users to create, read, update, and delete (CRUD) tasks.
